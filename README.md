@@ -10,7 +10,10 @@ Renpy must be installed before running the game
 
 Authors: 
 Jobanpreet Singh
+
 Rahil Sama
+
 Sehwa Kim
+
 Shafin Kheraj
 
